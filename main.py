@@ -1,6 +1,6 @@
 
 def main(msg):
-// make a comment
+    # TESTcomment
     print(msg)
 
 
